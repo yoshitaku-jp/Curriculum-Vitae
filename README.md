@@ -28,7 +28,7 @@
 
 ### ツール・OS・他
 - Windows / macOS / Linux
-- WindowsServer2008
+- Windows Server 2008
 - Windows Server 2012 R2
 - Oracle Database 11g
 - SQL Server
@@ -113,7 +113,7 @@
 #### 製造業向けワークフローシステムのデータ移行(2015.09 ~ 2016.01)
 - 担当:サーバーエンジニア
 - 業務:開発・テスト
-- 技術スタック:JavaScript / WindowsServer2008 / SQL Server
+- 技術スタック:JavaScript / Windows Server 2008 / SQL Server
 
 お客様環境がオンプレミスからクラウドへ移行するにあたり、新環境ワークフローが正常に機能することやデータが移行されていることを確認・テストしました。また、バッチ処理の改修を任されました。
 
