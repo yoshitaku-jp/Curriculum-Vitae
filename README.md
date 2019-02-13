@@ -28,6 +28,10 @@
 
 ### ツール・OS・他
 - Windows / macOS / Linux
+- WindowsServer2008
+- Windows Server 2012 R2
+- Oracle Database 11g
+- SQL Server
 - Visual Studio Code
 - Subversion
 - Trello
