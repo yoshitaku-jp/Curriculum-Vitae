@@ -27,9 +27,15 @@
 ### ツール・OS・他
 - Windows / macOS / Linux
 - Visual Studio Code
-- Git / Github
 - Subversion
-- Firebase ※趣味で少々
+- Trello
+    - 業務では未使用
+- Slack
+    - 業務では未使用
+- Git / Github
+    - 業務では未使用
+- Firebase
+    - 業務では未使用
 
 ## 強み/これから伸ばしたいこと/興味があること
 - 強み
