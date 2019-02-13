@@ -4,7 +4,7 @@
 
 | key     | value                                                               |
 | ------- | ------------------------------------------------------------------- |
-| Name    | 吉村健矢                                                             |
+| Name    | 吉村健矢                                                        |
 | Twitter | [yoshitaku_jp](https://twitter.com/yoshitaku_jp)                 |
 | portfolio   | [よしたく ポートフォリオ](https://yoshitakujp-firebase-portfolio.firebaseapp.com/)                   |
 | GitHub    | [yoshitaku-jp](https://github.com/yoshitaku-jp) |
@@ -15,8 +15,11 @@
 
 ### 言語
 - プログラミング関連
+    - HTML
+    - CSS
     - Java
     - JavaScript
+    - jQuery
     - Node.js
         - 業務では未使用
     - Vue.js
@@ -42,15 +45,21 @@
     - Java / JavaScript での実務経験
     - フロントエンド・バックエンドの実装を一通り経験している
     - 好奇心が強く新しいものが好きで、トレンドを追うことが好き
+        - Pythonを使って[スクレイピングツール](https://github.com/yoshitaku-jp/scraping_netkeiba)を作成した
+        - Vue.jsとFirebaseを使って[サイト](https://write-blog-every-week.netlify.com/)を作成した
     - 社内改善活動に注力
         - 社内の働きがい向上委員会に所属し、社内で問題となっている箇所へのアプローチした
+            - インフルエンザ休暇の導入提案
+            - 有給休暇の取得率が低かったため、部署間で競争する施策を提案
         - 社内勉強会をおこなう風土がなかったため、自主的に企画し実施した
-    - プレゼンテーションが好き
-        - [エンジニアの登壇を応援する忘年LT大会](https://techplay.jp/eventreport/705867)にてベストスピーカー2位（10人中）を獲得
+            - 月に1回社内でもくもく会を開催し、部署内外のメンバとの交流を深めた
+            - [Redashのハンズオン](https://github.com/kakakakakku/redash-hands-on)をメンバに対して実施した
     - アウトプット・プレゼンすることが好き
         - 週に1回で技術ブログを更新しています（2018.01~
             - 週に1回ブログを更新する[Write Blog Every Week](https://write-blog-every-week.netlify.com/)コミュニティの管理者
+            - 2018年[1人アドベントカレンダー](https://adventar.org/calendars/3492)を実施し無事に完走
         - 月1で登壇・LTをしています（2018.11~
+            - [エンジニアの登壇を応援する忘年LT大会](https://techplay.jp/eventreport/705867)にてベストスピーカー2位（10人中）を獲得
             - [Laravel JP Conference 2019](https://conference2019.laravel.jp/)にて、有志と[PHPテストワークショップ](https://fortee.jp/laravel-jp-conference-2019/proposal/f3964b26-c9db-4ee5-abee-c9b0ea51db7f)を実施
 - これから伸ばしたいこと
     - プログラミングスキルを中心に伸ばしていきたい
@@ -65,7 +74,10 @@
 - 興味があること
     - 組織としてアウトプットを推奨する環境での活動・文化風土の形成
     - 自社プロダクトの立ち上げ・運用・改善
-    - CI/CDにより自動化
+    - CI/CDによる自動化
+        - 自身のプロダクトにCircleCIを導入
+            - [CircleCIからFirebase Hostingへデプロイ](https://yoshitaku-jp.hatenablog.com/entry/2018/12/11/060000)
+            - [CircleCIをローカルで動かす](https://yoshitaku-jp.hatenablog.com/entry/2018/12/01/070000)方法
 
 ## 目指すキャリア像
 
