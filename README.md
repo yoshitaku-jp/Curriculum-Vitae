@@ -21,11 +21,12 @@
     - JavaScript
     - Python
         - 業務では未使用
+            - [スクレイピングツール](https://github.com/yoshitaku-jp/scraping_netkeiba)を作成した
 - フレームワーク/ライブラリ
     - jQuery
     - Vue.js
-        - 業務では未使用    
-
+        - 業務では未使用
+            - [Write Blog Every Weekのサイト](https://write-blog-every-week.netlify.com/)を作成した
 ### ツール・OS・他
 - Windows / macOS / Linux
 - Windows Server 2008
@@ -51,7 +52,7 @@
 - Firebase
     - 業務では未使用
         - Webアプリケーションを構築する際に使用
-            - [Write Blog Every Week](https://write-blog-every-week.netlify.com/)のデータを保持する面で、RealtimeDatabaseを使用
+            - [Write Blog Every Weekのサイト](https://write-blog-every-week.netlify.com/)に表示するデータを保持する面で、RealtimeDatabaseを使用
             - 現在は、サイトにアクセスが発生するたびにRealtimeDatabaseとの通信が発生することを避け別の実装に変更
 - Google Apps Script
     - 業務では未使用
@@ -64,7 +65,7 @@
     - フロントエンド・バックエンドの実装を一通り経験している
     - 好奇心が強く新しいものが好きで、トレンドを追うことが好き
         - Pythonを使って[スクレイピングツール](https://github.com/yoshitaku-jp/scraping_netkeiba)を作成した
-        - Vue.jsとFirebaseを使って[サイト](https://write-blog-every-week.netlify.com/)を作成した
+        - Vue.jsとFirebaseを使って[Write Blog Every Weekのサイト](https://write-blog-every-week.netlify.com/)を作成した
     - 社内改善活動に注力した
         - 社内の働きがい向上委員会に所属し、社内で問題となっている箇所へのアプローチした
             - インフルエンザ休暇の導入提案
