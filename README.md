@@ -4,7 +4,7 @@
 
 | key     | value                                                               |
 | ------- | ------------------------------------------------------------------- |
-| Name    | 吉村健矢                                                        |
+| Name    | 吉村健矢（YOSHIMURA Takuya                                                        |
 | Twitter | [yoshitaku_jp](https://twitter.com/yoshitaku_jp)                 |
 | portfolio   | [よしたく ポートフォリオ](https://yoshitakujp-firebase-portfolio.firebaseapp.com/)                   |
 | GitHub    | [yoshitaku-jp](https://github.com/yoshitaku-jp) |
