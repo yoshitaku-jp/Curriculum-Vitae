@@ -178,13 +178,15 @@
   - 課題に対し適切な技術選定ができる人材となる
     - 課題解決へのアプローチとチーム内での生産性最大化に向けての視野を持ちたいため
   - 課題に対し技術以外での解決できる道筋を見つけられる高い視座と広い視点を持つ人材となる
-    - 必ずしもプログラミングで解決することが正解ではないはずなので「顧客が本当に必要だったもの」を見失わないようにしたいため
+    - 必ずしもプログラミングで解決することが正解ではないと考えているので「顧客が本当に必要だったもの」を見失わないようにしたいため
 
 
 ## 主なアウトプット
 
 - [インターネット恩送り / Pay it Forward](https://speakerdeck.com/yoshitaku_jp/pay-it-forward)
     - 自身がなぜブログ更新というアウトプット活動を始めようと思い継続してきたかについてお話しました
+- [初めてのユニットテスト / PHP Unit Test workshop](https://speakerdeck.com/yoshitaku_jp/php-unit-test-workshop)
+    - [Laravel JP Conference](https://conference2019.laravel.jp/)にて有志と[PHPテストワークショップ](https://fortee.jp/laravel-jp-conference-2019/proposal/f3964b26-c9db-4ee5-abee-c9b0ea51db7f)を開催しました
 - [write-blog-every-weekメンバーのブログ一覧が見ることができるサイト](https://github.com/yoshitaku-jp/write-blog-every-week)
     - 所属メンバーのブログ一覧が見れるものがほしいと思い作成しました
 - [Write-Blog-Every-Weekメンバーのブログを巡回するRSSツール](https://github.com/yoshitaku-jp/feed)
