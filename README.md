@@ -73,7 +73,7 @@
 #### BIツールのカスタマイズ(2014.07 ~ 2015.12)
 - 担当:フロントエンド / サーバーエンジニア
 - 業務:基本設計・詳細設計・テーブル設計・画面設計・開発・テスト・検証
-- 技術スタック:HTML / JavaScript / CSS / Java / SQL / Windows Server 2012 R2  / Oracle Database 11g / 
+- 技術スタック:HTML / JavaScript / CSS / Java / SQL / Windows Server 2012 R2  / Oracle Database 11g
 
 お客様が利用していたBIツールのアップデートに伴い、5名前後の体制で新バージョンの製品カスタマイズ案件をおこないました。  
 基本設計書や詳細設計書の作成に始まり、開発環境の構築やログイン画面の実装をおこないました。
