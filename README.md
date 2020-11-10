@@ -130,12 +130,9 @@
 
 ### 言語（業務外で使用したもののみ記載
 
-- プログラミング関連
-  - Python
-    - [スクレイピングツール](https://github.com/yoshitaku-jp/scraping_netkeiba)を作成した
 - フレームワーク/ライブラリ
   - Vue.js
-    - [Write Blog Every Week のサイト](https://write-blog-every-week.netlify.com/)を作成した
+    - [Write Blog Every Week のサイト](https://write-blog-every-week.netlify.app)を作成した
 
 ### ツール・OS・他（業務外で使用したもののみ記載
 
@@ -152,13 +149,10 @@
   - OSS に貢献する際に使用
 - Firebase
   - Web アプリケーションを構築する際に使用
-    - [Write Blog Every Week のサイト](https://write-blog-every-week.netlify.com/)に表示するデータを保持する面で、RealtimeDatabase を使用
+    - [Write Blog Every Week のサイト](https://write-blog-every-week.netlify.app)に表示するデータを保持する面で、RealtimeDatabase を使用
     - 現在は、サイトにアクセスが発生するたびに RealtimeDatabase との通信が発生することを避け別の実装に変更
-- Google Apps Script
-  - [自身のブログに関する情報を取得するために使用](https://github.com/yoshitaku-jp/getKPI)
-  - [RSS ツールとして使用](https://github.com/yoshitaku-jp/feed)
 - Netlify
-  - [Write Blog Every Week のサイト](https://write-blog-every-week.netlify.com/)のホスティングとして利用
+  - [Write Blog Every Week のサイト](https://write-blog-every-week.netlify.app)のホスティングとして利用
   - JSON ファイルを配信する簡易的な WebAPI サーバとして利用
 
 ## 強み/これから伸ばしたいこと/興味があること
@@ -167,8 +161,7 @@
   - Java / JavaScript での実務経験がある
   - フロントエンド・バックエンドの実装を一通り経験している
   - 好奇心が強く最新技術へのキャッチアップを怠らない
-    - Python を使って[スクレイピングツール](https://github.com/yoshitaku-jp/scraping_netkeiba)を作成した
-    - Vue.js と Firebase を使って[Write Blog Every Week のサイト](https://write-blog-every-week.netlify.com/)を作成した
+    - Vue.js と Firebase を使って[Write Blog Every Week のサイト](https://write-blog-every-week.netlify.app)を作成した
   - 主体的に問題解決を行うことができる
     - 社内の働きがい向上委員会に所属し、社内で問題となっている箇所へアプローチした
       - インフルエンザ休暇の導入提案
@@ -178,7 +171,7 @@
       - [Redash のハンズオン](https://github.com/kakakakakku/redash-hands-on)をメンバに対して実施した
   - アウトプットを継続する力
     - 週に 1 回で技術ブログを更新しています（2018.01~現在）
-      - 週に 1 回ブログを更新する[Write Blog Every Week](https://write-blog-every-week.netlify.com/)コミュニティの管理者
+      - 週に 1 回ブログを更新する[Write Blog Every Week](https://write-blog-every-week.netlify.app)コミュニティの管理者
       - 2018 年[1 人アドベントカレンダー](https://adventar.org/calendars/3492)を実施し無事に完走
     - 月 1 で登壇・LT をしています（2018.11~現在）
       - [エンジニアの登壇を応援する忘年 LT 大会](https://techplay.jp/eventreport/705867)にてベストスピーカー 2 位（10 人中）を獲得
