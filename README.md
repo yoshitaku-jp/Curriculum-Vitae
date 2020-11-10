@@ -20,6 +20,7 @@
   - CSS
   - Java
   - JavaScript
+  - Python
 - フレームワーク/ライブラリ
   - jQuery
 
@@ -30,14 +31,42 @@
 - Windows Server 2012 R2
 - Oracle Database 11g
 - SQL Server
+- GitHub
 - Subversion
+- Azure
+  - Azure Data Lake Storage
+  - Azure Cosmos DB
+  - Azure SQL Database
+  - Azure IoT Hub
+  - Azure Stream Analytics
+  - Azure Synapse Analytics
+  - Data Factory
+  - Event Hubs
+  - Azure DevOps
+  - Azure Databricks
 
 ### 職務経歴
 
-**2014/04 ～ 現在: 株式会社ジール**  
-**職務:システムエンジニア**
+**2014/04 ～ 現在: 株式会社ジール**
 
-**小売業向けワークフローシステムの開発・サポート(2016.02 ~ 現在)**
+**職務:プリセールス(2014.07 ~ 現在）**
+
+ビックデータ分析処理基盤の構築を検討しているお客様へ、プリセールスとして導入支援をおこないました。
+他にも PoC やセミナー講師を通して促進もおこないました。
+
+**職務:システムエンジニア(2014.07 ~ 2018.06)**
+
+**製造業向けワークフローシステムのバージョンアップ作業(2018.04 ~ 2018.06)**
+
+- 担当:プロジェクトマネジメント / フロントエンド
+- 業務:基本設計・詳細設計・開発・テスト・サポート
+- 技術スタック:JavaScript
+
+お客様が使用しているワークフローシステムのバージョンアップ作業をおこないました。
+メジャバージョンのアップデートであったため、現行システムとバージョンアップ先での差異を調査・確認しました。
+また、バージョンアップまでの暫定対応として、現行システムの改修もおこないました。
+
+**小売業向けワークフローシステムの開発・サポート(2016.02 ~ 2018.03)**
 
 - 担当:フロントエンド / サーバーエンジニア
 - 業務:基本設計・詳細設計・開発・テスト・サポート
@@ -148,10 +177,10 @@
       - 月に 1 回社内でもくもく会を開催し、部署内外のメンバとの交流を深めた
       - [Redash のハンズオン](https://github.com/kakakakakku/redash-hands-on)をメンバに対して実施した
   - アウトプットを継続する力
-    - 週に 1 回で技術ブログを更新しています（2018.01~
+    - 週に 1 回で技術ブログを更新しています（2018.01~現在）
       - 週に 1 回ブログを更新する[Write Blog Every Week](https://write-blog-every-week.netlify.com/)コミュニティの管理者
       - 2018 年[1 人アドベントカレンダー](https://adventar.org/calendars/3492)を実施し無事に完走
-    - 月 1 で登壇・LT をしています（2018.11~
+    - 月 1 で登壇・LT をしています（2018.11~現在）
       - [エンジニアの登壇を応援する忘年 LT 大会](https://techplay.jp/eventreport/705867)にてベストスピーカー 2 位（10 人中）を獲得
       - [Laravel JP Conference 2019](https://conference2019.laravel.jp/)にて、有志と[PHP テストワークショップ](https://fortee.jp/laravel-jp-conference-2019/proposal/f3964b26-c9db-4ee5-abee-c9b0ea51db7f)を実施
     - 2018 年から[OSS Gate](https://oss-gate.github.io/)のメンバーとして OSS 活動への新規参加者への継続的なフォロー
