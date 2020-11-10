@@ -2,26 +2,29 @@
 
 ## 基本情報
 
-| key     | value                                                               |
-| ------- | ------------------------------------------------------------------- |
-| Name    | 吉村健矢（YOSHIMURA Takuya）                                                        |
-| Twitter | [yoshitaku_jp](https://twitter.com/yoshitaku_jp)                 |
-| portfolio   | [よしたく ポートフォリオ](https://yoshitakujp-firebase-portfolio.firebaseapp.com/)                   |
-| GitHub    | [yoshitaku-jp](https://github.com/yoshitaku-jp) |
-| Blog    | [よしたく blog](https://yoshitaku-jp.hatenablog.com/) |
-| SpeakerDeck    | [yoshitaku_jp](https://speakerdeck.com/yoshitaku_jp) |
+| key         | value                                                                              |
+| ----------- | ---------------------------------------------------------------------------------- |
+| Name        | 吉村健矢（YOSHIMURA Takuya）                                                       |
+| Twitter     | [yoshitaku_jp](https://twitter.com/yoshitaku_jp)                                   |
+| portfolio   | [よしたく ポートフォリオ](https://yoshitakujp-firebase-portfolio.firebaseapp.com/) |
+| GitHub      | [yoshitaku-jp](https://github.com/yoshitaku-jp)                                    |
+| Blog        | [よしたく blog](https://yoshitaku-jp.hatenablog.com/)                              |
+| SpeakerDeck | [yoshitaku_jp](https://speakerdeck.com/yoshitaku_jp)                               |
 
 ## 業務
+
 ### 言語
+
 - プログラミング関連
-    - HTML
-    - CSS
-    - Java
-    - JavaScript
+  - HTML
+  - CSS
+  - Java
+  - JavaScript
 - フレームワーク/ライブラリ
-    - jQuery
+  - jQuery
 
 ### ツール・OS・他
+
 - Windows / macOS / Linux
 - Windows Server 2008
 - Windows Server 2012 R2
@@ -35,14 +38,15 @@
 **職務:システムエンジニア**
 
 **小売業向けワークフローシステムの開発・サポート(2016.02 ~ 現在)**
+
 - 担当:フロントエンド / サーバーエンジニア
 - 業務:基本設計・詳細設計・開発・テスト・サポート
 - 技術スタック:JavaScript / Subversion
 
-お客様の社内申請書の電子化に伴い、4,5名体制でお客様先に常駐しワークフローシステムの導入・開発・サポートをおこないました。  
+お客様の社内申請書の電子化に伴い、4,5 名体制でお客様先に常駐しワークフローシステムの導入・開発・サポートをおこないました。  
 お客様先にてウォーターフォール型の開発からアジャイル型への開発スタイルの変化があり戸惑うこともありましたが、開発サイクルが短くなった場合の立ち振る舞いや朝会夕会を実施するように提案しチームが新しい環境に適応するように努めました。
 
-**ワークフローシステムの画面開発・サポート**  
+**ワークフローシステムの画面開発・サポート**
 
 電子化対象となっている社内申請書が多いため開発のスピードが求められました。  
 開発を楽にするためシステム側ですでにテンプレートとして提供されているアイテムもありましたが、お客様要望によりそれらをカスタマイズする場面もありました。  
@@ -52,17 +56,18 @@
 <br/><br/>
 
 #### 製造業向けワークフローシステムのデータ移行(2015.09 ~ 2016.01)
+
 - 担当:サーバーエンジニア
 - 業務:開発・テスト
 - 技術スタック:JavaScript / Windows Server 2008 / SQL Server
 
 お客様環境がオンプレミスからクラウドへ移行するにあたり、新環境ワークフローが正常に機能することやデータが移行されていることを確認・テストしました。また、バッチ処理の改修を任されました。
 
-**新環境ワークフローの確認・テスト**  
+**新環境ワークフローの確認・テスト**
 
 テストケースの作成からテストまでおこないました。エラーが発生した場合は、エラーが起こっただけではなく原因となる部分も含め報告し修正対応のサイクルを短くするように努めました。
 
-**バッチ処理の改修**  
+**バッチ処理の改修**
 
 夜間に起動するバッチ処理の改修をおこないました。  
 ユーザ情報の更新や、組織の情報を更新するもので非常に大規模なデータを扱うものでした。  
@@ -70,126 +75,131 @@
 既存ソースコードの理解から問題部分の特定まで非常に困難でしたが最後までやり遂げました。
 <br/><br/>
 
-#### BIツールのカスタマイズ(2014.07 ~ 2015.12)
+#### BI ツールのカスタマイズ(2014.07 ~ 2015.12)
+
 - 担当:フロントエンド / サーバーエンジニア
 - 業務:基本設計・詳細設計・テーブル設計・画面設計・開発・テスト・検証
-- 技術スタック:HTML / JavaScript / CSS / Java / SQL / Windows Server 2012 R2  / Oracle Database 11g
+- 技術スタック:HTML / JavaScript / CSS / Java / SQL / Windows Server 2012 R2 / Oracle Database 11g
 
-お客様が利用していたBIツールのアップデートに伴い、5名前後の体制で新バージョンの製品カスタマイズ案件をおこないました。  
+お客様が利用していた BI ツールのアップデートに伴い、5 名前後の体制で新バージョンの製品カスタマイズ案件をおこないました。  
 基本設計書や詳細設計書の作成に始まり、開発環境の構築やログイン画面の実装をおこないました。
 
-**基本設計書・詳細設計書の作成**  
+**基本設計書・詳細設計書の作成**
 
 システムがどう動いているのを正とするかお客様と確認しながら基本設計書に起こしました。  
 詳細設計書では自分自身やチームメンバがプログラミングに専念できるように細かく落とし込みました。  
 プログラミングを実施する上で詳細設計書に盛り込めていないことが発生した場合は、実際の動作を自身で確認し詳細設計書を修正するように努めました。
 
-**ログイン画面の作成をJavaと製品のSDKを用いて開発**  
+**ログイン画面の作成を Java と製品の SDK を用いて開発**
 
-別システムからBIツールへのログイン機能をJavaで実装しました。  
-別システムから経由しない緊急時のログイン画面の作成や管理者用画面も含め、SDKを用い実装をおこないました。  
-研修期間にローカル環境でプログラミング学習していたときとは違い、サーバー間でのやり取りやSDKの理解など考えることが多岐にわたりシステムを動かすことの楽しさと難しさを経験しました。
+別システムから BI ツールへのログイン機能を Java で実装しました。  
+別システムから経由しない緊急時のログイン画面の作成や管理者用画面も含め、SDK を用い実装をおこないました。  
+研修期間にローカル環境でプログラミング学習していたときとは違い、サーバー間でのやり取りや SDK の理解など考えることが多岐にわたりシステムを動かすことの楽しさと難しさを経験しました。
 <br/><br/>
 
 ## 業務外
+
 ### 言語（業務外で使用したもののみ記載
+
 - プログラミング関連
-    - Python
-        - [スクレイピングツール](https://github.com/yoshitaku-jp/scraping_netkeiba)を作成した
+  - Python
+    - [スクレイピングツール](https://github.com/yoshitaku-jp/scraping_netkeiba)を作成した
 - フレームワーク/ライブラリ
-    - Vue.js
-        - [Write Blog Every Weekのサイト](https://write-blog-every-week.netlify.com/)を作成した
+  - Vue.js
+    - [Write Blog Every Week のサイト](https://write-blog-every-week.netlify.com/)を作成した
+
 ### ツール・OS・他（業務外で使用したもののみ記載
+
 - Visual Studio Code
-    - 業務外でドキュメントやコードを書く際に使用
+  - 業務外でドキュメントやコードを書く際に使用
 - Trello
-    - 有志でのプロジェクトにて進捗管理の際に使用
-    - 個人的な週単位のでタスク管理として使用
+  - 有志でのプロジェクトにて進捗管理の際に使用
+  - 個人的な週単位のでタスク管理として使用
 - Slack
-    - 個人スラックとして情報の集約化をする際に使用
-    - 社外コミュニティでのコミュニケーション手段として利用
+  - 個人スラックとして情報の集約化をする際に使用
+  - 社外コミュニティでのコミュニケーション手段として利用
 - Git / GitHub
-    - 有志でのプロジェクトにてバージョン管理システムとして使用
-    - OSSに貢献する際に使用
+  - 有志でのプロジェクトにてバージョン管理システムとして使用
+  - OSS に貢献する際に使用
 - Firebase
-    - Webアプリケーションを構築する際に使用
-        - [Write Blog Every Weekのサイト](https://write-blog-every-week.netlify.com/)に表示するデータを保持する面で、RealtimeDatabaseを使用
-        - 現在は、サイトにアクセスが発生するたびにRealtimeDatabaseとの通信が発生することを避け別の実装に変更
+  - Web アプリケーションを構築する際に使用
+    - [Write Blog Every Week のサイト](https://write-blog-every-week.netlify.com/)に表示するデータを保持する面で、RealtimeDatabase を使用
+    - 現在は、サイトにアクセスが発生するたびに RealtimeDatabase との通信が発生することを避け別の実装に変更
 - Google Apps Script
-    - [自身のブログに関する情報を取得するために使用](https://github.com/yoshitaku-jp/getKPI)
-    - [RSSツールとして使用](https://github.com/yoshitaku-jp/feed)
+  - [自身のブログに関する情報を取得するために使用](https://github.com/yoshitaku-jp/getKPI)
+  - [RSS ツールとして使用](https://github.com/yoshitaku-jp/feed)
 - Netlify
-    - [Write Blog Every Weekのサイト](https://write-blog-every-week.netlify.com/)のホスティングとして利用
-    - JSONファイルを配信する簡易的なWebAPIサーバとして利用
+  - [Write Blog Every Week のサイト](https://write-blog-every-week.netlify.com/)のホスティングとして利用
+  - JSON ファイルを配信する簡易的な WebAPI サーバとして利用
 
 ## 強み/これから伸ばしたいこと/興味があること
+
 - 強み
-    - Java / JavaScript での実務経験がある
-    - フロントエンド・バックエンドの実装を一通り経験している
-    - 好奇心が強く最新技術へのキャッチアップを怠らない
-        - Pythonを使って[スクレイピングツール](https://github.com/yoshitaku-jp/scraping_netkeiba)を作成した
-        - Vue.jsとFirebaseを使って[Write Blog Every Weekのサイト](https://write-blog-every-week.netlify.com/)を作成した
-    - 主体的に問題解決を行うことができる
-        - 社内の働きがい向上委員会に所属し、社内で問題となっている箇所へアプローチした
-            - インフルエンザ休暇の導入提案
-            - 有給休暇の取得率が低かったため、部署間で取得率を競争する施策を提案
-        - 社内勉強会をおこなう風土がなかったため、自主的に企画し実施した
-            - 月に1回社内でもくもく会を開催し、部署内外のメンバとの交流を深めた
-            - [Redashのハンズオン](https://github.com/kakakakakku/redash-hands-on)をメンバに対して実施した
-    - アウトプットを継続する力
-        - 週に1回で技術ブログを更新しています（2018.01~
-            - 週に1回ブログを更新する[Write Blog Every Week](https://write-blog-every-week.netlify.com/)コミュニティの管理者
-            - 2018年[1人アドベントカレンダー](https://adventar.org/calendars/3492)を実施し無事に完走
-        - 月1で登壇・LTをしています（2018.11~
-            - [エンジニアの登壇を応援する忘年LT大会](https://techplay.jp/eventreport/705867)にてベストスピーカー2位（10人中）を獲得
-            - [Laravel JP Conference 2019](https://conference2019.laravel.jp/)にて、有志と[PHPテストワークショップ](https://fortee.jp/laravel-jp-conference-2019/proposal/f3964b26-c9db-4ee5-abee-c9b0ea51db7f)を実施
-        - 2018年から[OSS Gate](https://oss-gate.github.io/)のメンバーとしてOSS活動への新規参加者への継続的なフォロー
-            - [サポーター活動の実績](https://yoshitaku-jp.hatenablog.com/entry/2018/10/29/225211)
-            - [ワークショップ司会の実績](https://yoshitaku-jp.hatenablog.com/entry/2018/12/16/110000)
+  - Java / JavaScript での実務経験がある
+  - フロントエンド・バックエンドの実装を一通り経験している
+  - 好奇心が強く最新技術へのキャッチアップを怠らない
+    - Python を使って[スクレイピングツール](https://github.com/yoshitaku-jp/scraping_netkeiba)を作成した
+    - Vue.js と Firebase を使って[Write Blog Every Week のサイト](https://write-blog-every-week.netlify.com/)を作成した
+  - 主体的に問題解決を行うことができる
+    - 社内の働きがい向上委員会に所属し、社内で問題となっている箇所へアプローチした
+      - インフルエンザ休暇の導入提案
+      - 有給休暇の取得率が低かったため、部署間で取得率を競争する施策を提案
+    - 社内勉強会をおこなう風土がなかったため、自主的に企画し実施した
+      - 月に 1 回社内でもくもく会を開催し、部署内外のメンバとの交流を深めた
+      - [Redash のハンズオン](https://github.com/kakakakakku/redash-hands-on)をメンバに対して実施した
+  - アウトプットを継続する力
+    - 週に 1 回で技術ブログを更新しています（2018.01~
+      - 週に 1 回ブログを更新する[Write Blog Every Week](https://write-blog-every-week.netlify.com/)コミュニティの管理者
+      - 2018 年[1 人アドベントカレンダー](https://adventar.org/calendars/3492)を実施し無事に完走
+    - 月 1 で登壇・LT をしています（2018.11~
+      - [エンジニアの登壇を応援する忘年 LT 大会](https://techplay.jp/eventreport/705867)にてベストスピーカー 2 位（10 人中）を獲得
+      - [Laravel JP Conference 2019](https://conference2019.laravel.jp/)にて、有志と[PHP テストワークショップ](https://fortee.jp/laravel-jp-conference-2019/proposal/f3964b26-c9db-4ee5-abee-c9b0ea51db7f)を実施
+    - 2018 年から[OSS Gate](https://oss-gate.github.io/)のメンバーとして OSS 活動への新規参加者への継続的なフォロー
+      - [サポーター活動の実績](https://yoshitaku-jp.hatenablog.com/entry/2018/10/29/225211)
+      - [ワークショップ司会の実績](https://yoshitaku-jp.hatenablog.com/entry/2018/12/16/110000)
 - これから伸ばしたいこと
-    - プログラミングスキルを中心に伸ばしていきたい
-        - 自身の技術力が向上することにより、事業へより貢献できる部分が大きくなるため
-    - モダンな開発スタイルを用いて開発をおこないたい
-        - 最新技術を常にキャッチアップしていたいため
-        - 業務効率を上げ、様々なアウトプット活動を増やしていきたいため
-    - エンジニアのアウトプットを支援していきたい
-        - アウトプットを通して自身が成長してきたので、足踏みをしている人に対して支援をおこないたいため
-    - OSSへの貢献を増やしていきたい
-        - OSS活動への新規参加者のためのフォロー活動を継続的に実施し支援をおこないたいため
+  - プログラミングスキルを中心に伸ばしていきたい
+    - 自身の技術力が向上することにより、事業へより貢献できる部分が大きくなるため
+  - モダンな開発スタイルを用いて開発をおこないたい
+    - 最新技術を常にキャッチアップしていたいため
+    - 業務効率を上げ、様々なアウトプット活動を増やしていきたいため
+  - エンジニアのアウトプットを支援していきたい
+    - アウトプットを通して自身が成長してきたので、足踏みをしている人に対して支援をおこないたいため
+  - OSS への貢献を増やしていきたい
+    - OSS 活動への新規参加者のためのフォロー活動を継続的に実施し支援をおこないたいため
 - 興味があること
-    - 組織としてアウトプットを推奨する環境での活動・文化風土の形成
-        - 自身が得た知識を共有し他者の成長となってほしい一方で、他者が得た知識を共有してもらうことで自身の成長にもいかしたい
-            - その結果会社や組織が成長し、また新しい人材の獲得・環境改善のサイクルが回ると考えたため
-    - 自社プロダクトの立ち上げ・運用・改善
-        - 他社開発システムでは自身だけでの改善が難しい面があり、自社プロダクトを持っている会社で提案・改善活動をおこなっていきたいと考えるようになった
-    - CI/CDによる自動化
-        - 自身のプロダクトにCircleCIを導入
-            - [CircleCIからFirebase Hostingへデプロイ](https://yoshitaku-jp.hatenablog.com/entry/2018/12/11/060000)
-            - [CircleCIをローカルで動かす](https://yoshitaku-jp.hatenablog.com/entry/2018/12/01/070000)方法
+  - 組織としてアウトプットを推奨する環境での活動・文化風土の形成
+    - 自身が得た知識を共有し他者の成長となってほしい一方で、他者が得た知識を共有してもらうことで自身の成長にもいかしたい
+      - その結果会社や組織が成長し、また新しい人材の獲得・環境改善のサイクルが回ると考えたため
+  - 自社プロダクトの立ち上げ・運用・改善
+    - 他社開発システムでは自身だけでの改善が難しい面があり、自社プロダクトを持っている会社で提案・改善活動をおこなっていきたいと考えるようになった
+  - CI/CD による自動化
+    - 自身のプロダクトに CircleCI を導入
+      - [CircleCI から Firebase Hosting へデプロイ](https://yoshitaku-jp.hatenablog.com/entry/2018/12/11/060000)
+      - [CircleCI をローカルで動かす](https://yoshitaku-jp.hatenablog.com/entry/2018/12/01/070000)方法
 
 ## 目指すキャリア像
 
-- 短期目標（1,2年）
+- 短期目標（1,2 年）
   - 開発チームの中でテックリードエンジニアとして認められ、チームを牽引できる人材となる
     - 開発チーム内において技術面での価値を発揮していけるようになりたいため
   - フロント/バックエンド/インフラと横断的に知識を持てるような人材となる
     - 自身の専門外のことも興味関心を持ち、常に業界全体としての動きをキャッチアップできるようになりたいため
-- 中長期目標（5年〜）
+- 中長期目標（5 年〜）
   - 課題に対し適切な技術選定ができる人材となる
     - 課題解決へのアプローチとチーム内での生産性最大化に向けての視野を持ちたいため
   - 課題に対し技術以外での解決できる道筋を見つけられる高い視座と広い視点を持つ人材となる
     - 必ずしもプログラミングで解決することが正解ではないと考えているので「顧客が本当に必要だったもの」を見失わないようにしたいため
 
-
 ## 主なアウトプット
 
 - [インターネット恩送り / Pay it Forward](https://speakerdeck.com/yoshitaku_jp/pay-it-forward)
-    - 自身がなぜブログ更新というアウトプット活動を始めようと思い継続してきたかについてお話しました
+  - 自身がなぜブログ更新というアウトプット活動を始めようと思い継続してきたかについてお話しました
 - [初めてのユニットテスト / PHP Unit Test workshop](https://speakerdeck.com/yoshitaku_jp/php-unit-test-workshop)
-    - [Laravel JP Conference](https://conference2019.laravel.jp/)にて有志と[PHPテストワークショップ](https://fortee.jp/laravel-jp-conference-2019/proposal/f3964b26-c9db-4ee5-abee-c9b0ea51db7f)を開催しました
-- [write-blog-every-weekメンバーのブログ一覧が見ることができるサイト](https://github.com/yoshitaku-jp/write-blog-every-week)
-    - 所属メンバーのブログ一覧が見れるものがほしいと思い作成しました
-- [Write-Blog-Every-Weekメンバーのブログを巡回するRSSツール](https://github.com/yoshitaku-jp/feed)
-    - 所属メンバーのブログ一覧を作成するに当たり情報を取得するため作成しました
+  - [Laravel JP Conference](https://conference2019.laravel.jp/)にて有志と[PHP テストワークショップ](https://fortee.jp/laravel-jp-conference-2019/proposal/f3964b26-c9db-4ee5-abee-c9b0ea51db7f)を開催しました
+- [write-blog-every-week メンバーのブログ一覧が見ることができるサイト](https://github.com/yoshitaku-jp/write-blog-every-week)
+  - 所属メンバーのブログ一覧が見れるものがほしいと思い作成しました
+- [Write-Blog-Every-Week メンバーのブログを巡回する RSS ツール](https://github.com/yoshitaku-jp/feed)
+  - 所属メンバーのブログ一覧を作成するに当たり情報を取得するため作成しました
 
 以上
