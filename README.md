@@ -2,14 +2,13 @@
 
 ## 基本情報
 
-| key         | value                                                                              |
-| ----------- | ---------------------------------------------------------------------------------- |
-| Name        | 吉村健矢（YOSHIMURA Takuya）                                                       |
-| Twitter     | [yoshitaku_jp](https://twitter.com/yoshitaku_jp)                                   |
-| portfolio   | [よしたく ポートフォリオ](https://yoshitakujp-firebase-portfolio.firebaseapp.com/) |
-| GitHub      | [yoshitaku-jp](https://github.com/yoshitaku-jp)                                    |
-| Blog        | [よしたく blog](https://yoshitaku-jp.hatenablog.com/)                              |
-| SpeakerDeck | [yoshitaku_jp](https://speakerdeck.com/yoshitaku_jp)                               |
+| key         | value                                                 |
+| ----------- | ----------------------------------------------------- |
+| Name        | 吉村健矢（YOSHIMURA Takuya）                          |
+| Twitter     | [yoshitaku_jp](https://twitter.com/yoshitaku_jp)      |
+| GitHub      | [yoshitaku-jp](https://github.com/yoshitaku-jp)       |
+| Blog        | [よしたく blog](https://yoshitaku-jp.hatenablog.com/) |
+| SpeakerDeck | [yoshitaku_jp](https://speakerdeck.com/yoshitaku_jp)  |
 
 ## 業務
 
@@ -161,7 +160,7 @@
   - Java / JavaScript での実務経験がある
   - フロントエンド・バックエンドの実装を一通り経験している
   - 好奇心が強く最新技術へのキャッチアップを怠らない
-    - Vue.js と Firebase を使って[Write Blog Every Week のサイト](https://write-blog-every-week.netlify.app)を作成した
+    - Vue.js を使って[Write Blog Every Week のサイト](https://write-blog-every-week.netlify.app)を作成した
   - 主体的に問題解決を行うことができる
     - 社内の働きがい向上委員会に所属し、社内で問題となっている箇所へアプローチした
       - インフルエンザ休暇の導入提案
@@ -195,10 +194,6 @@
       - その結果会社や組織が成長し、また新しい人材の獲得・環境改善のサイクルが回ると考えたため
   - 自社プロダクトの立ち上げ・運用・改善
     - 他社開発システムでは自身だけでの改善が難しい面があり、自社プロダクトを持っている会社で提案・改善活動をおこなっていきたいと考えるようになった
-  - CI/CD による自動化
-    - 自身のプロダクトに CircleCI を導入
-      - [CircleCI から Firebase Hosting へデプロイ](https://yoshitaku-jp.hatenablog.com/entry/2018/12/11/060000)
-      - [CircleCI をローカルで動かす](https://yoshitaku-jp.hatenablog.com/entry/2018/12/01/070000)方法
 
 ## 目指すキャリア像
 
@@ -221,7 +216,6 @@
   - [Laravel JP Conference](https://conference2019.laravel.jp/)にて有志と[PHP テストワークショップ](https://fortee.jp/laravel-jp-conference-2019/proposal/f3964b26-c9db-4ee5-abee-c9b0ea51db7f)を開催しました
 - [write-blog-every-week メンバーのブログ一覧が見ることができるサイト](https://github.com/yoshitaku-jp/write-blog-every-week)
   - 所属メンバーのブログ一覧が見れるものがほしいと思い作成しました
-- [Write-Blog-Every-Week メンバーのブログを巡回する RSS ツール](https://github.com/yoshitaku-jp/feed)
-  - 所属メンバーのブログ一覧を作成するに当たり情報を取得するため作成しました
+  - [メンバーの最新記事を取得するツール](https://github.com/yoshitaku-jp/api-write-blog-every-week)を作成し、Netlify を簡易的な API サーバとして運用しています。
 
 以上
