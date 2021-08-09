@@ -2,19 +2,27 @@
 
 ## 基本情報
 
-| key         | value                                                 |
-| ----------- | ----------------------------------------------------- |
-| Name        | 吉村健矢（YOSHIMURA Takuya）                          |
-| Twitter     | [yoshitaku_jp](https://twitter.com/yoshitaku_jp)      |
-| GitHub      | [yoshitaku-jp](https://github.com/yoshitaku-jp)       |
-| Blog        | [よしたく blog](https://yoshitaku-jp.hatenablog.com/) |
-| SpeakerDeck | [yoshitaku_jp](https://speakerdeck.com/yoshitaku_jp)  |
+| key      | value                        |
+| -------- | ---------------------------- |
+| 名前     | 吉村健矢（YOSHIMURA Takuya） |
+| 生年月日 | 1990 年 04 月 21 日（31 歳） |
 
-## 業務
+# キャリアプロフィール
 
-### 言語
+これまでユーザ向けに社内向けワークフローシステムの導入、データ分析基盤の導入を経験しました。
+またシステムの導入だけでなくプリセールスや講師業の活動を通し、IT に精通していない人に向けてわかりやすくシステム導入の難しさと大切さを伝えることもおこなってきました。
+技術に興味を持ってもらうことと交流のために社内勉強会の開催や、業務で得た学びをブログや社外勉強会にて定期的にアウトプットしました。
+今後はサーバサイドを中心に技術力を高め、運用まで意識してのモノづくりをおこなっていきたいと思っています。
 
-- プログラミング関連
+# 職務要約
+
+- 2014 年 04〜現在 株式会社ジール
+
+# 活かせる経験・知識
+
+## 開発経験
+
+- 言語
   - HTML
   - CSS
   - Java
@@ -22,33 +30,51 @@
   - Python
 - フレームワーク/ライブラリ
   - jQuery
+- DB
+  - Oracle Database 11g
+  - SQL Server
+- ツール・OS・他
+  - Windows / macOS / Linux
+  - Windows Server 2008
+  - Windows Server 2012 R2
+  - GitHub
+  - Subversion
+  - Azure
+    - Azure Data Lake Storage
+    - Azure Cosmos DB
+    - Azure SQL Database
+    - Azure IoT Hub
+    - Azure Stream Analytics
+    - Azure Synapse Analytics
+    - Data Factory
+    - Event Hubs
+    - Azure DevOps
+    - Azure Databricks
 
-### ツール・OS・他
+## 保有資格
 
-- Windows / macOS / Linux
-- Windows Server 2008
-- Windows Server 2012 R2
-- Oracle Database 11g
-- SQL Server
-- GitHub
-- Subversion
-- Azure
-  - Azure Data Lake Storage
-  - Azure Cosmos DB
-  - Azure SQL Database
-  - Azure IoT Hub
-  - Azure Stream Analytics
-  - Azure Synapse Analytics
-  - Data Factory
-  - Event Hubs
-  - Azure DevOps
-  - Azure Databricks
+- 基本情報技術者試験
+- DP-200: Implementing an Azure Data Solution
+- DP-201: Designing an Azure Data Solution
 
 ### 職務経歴
 
 **2014/04 ～ 現在: 株式会社ジール**
 
-**職務:プリセールス(2018.07 ~ 現在）**
+**職務:データエンジニア(2021.06 ~ 現在）**
+
+**商社向けデータ分析基盤構築の開発・サポート(2021.06 ~ )**
+
+- 担当:サーバサイド
+- 業務:基本設計・詳細設計・開発・テスト・サポート
+- 技術スタック:Azure SQL Database / Data Factory
+
+お客様のデータ分析基盤構築の開発・サポートをおこないました。
+SQL を用いた ETL 処理の開発やテーブルの設計を中心に業務を進めました。
+プロジェクト内での属人化を防ぐため開発モジュールの共通化や、ドキュメント類の整理整頓などの横展開を意識した動きもおこないました。
+お客様向けの技術調査及び情報共有やジュニアエンジニアへの育成も担当し、チーム全体への視野も持ち作業を実施しました。
+
+**職務:プリセールス(2018.07 ~ 2021.05）**
 
 ビックデータ分析処理基盤の構築を検討しているお客様へ、プリセールスとして導入支援をおこないました。
 他にも PoC やセミナー講師を通して促進もおこないました。
@@ -129,9 +155,11 @@
 
 ### 言語（業務外で使用したもののみ記載
 
+- 言語
+  - Ruby
 - フレームワーク/ライブラリ
   - Vue.js
-    - [Write Blog Every Week のサイト](https://write-blog-every-week.netlify.app)を作成した
+  - Rails
 
 ### ツール・OS・他（業務外で使用したもののみ記載
 
@@ -141,81 +169,10 @@
   - 有志でのプロジェクトにて進捗管理の際に使用
   - 個人的な週単位のでタスク管理として使用
 - Slack
-  - 個人スラックとして情報の集約化をする際に使用
+  - 個人 Slack として情報の集約化をする際に使用
   - 社外コミュニティでのコミュニケーション手段として利用
 - Git / GitHub
   - 有志でのプロジェクトにてバージョン管理システムとして使用
   - OSS に貢献する際に使用
-- Firebase
-  - Web アプリケーションを構築する際に使用
-    - [Write Blog Every Week のサイト](https://write-blog-every-week.netlify.app)に表示するデータを保持する面で、RealtimeDatabase を使用
-    - 現在は、サイトにアクセスが発生するたびに RealtimeDatabase との通信が発生することを避け別の実装に変更
-- Netlify
-  - [Write Blog Every Week のサイト](https://write-blog-every-week.netlify.app)のホスティングとして利用
-  - JSON ファイルを配信する簡易的な WebAPI サーバとして利用
-
-## 強み/これから伸ばしたいこと/興味があること
-
-- 強み
-  - Java / JavaScript での実務経験がある
-  - フロントエンド・バックエンドの実装を一通り経験している
-  - 好奇心が強く最新技術へのキャッチアップを怠らない
-    - Vue.js を使って[Write Blog Every Week のサイト](https://write-blog-every-week.netlify.app)を作成した
-  - 主体的に問題解決を行うことができる
-    - 社内の働きがい向上委員会に所属し、社内で問題となっている箇所へアプローチした
-      - インフルエンザ休暇の導入提案
-      - 有給休暇の取得率が低かったため、部署間で取得率を競争する施策を提案
-    - 社内勉強会をおこなう風土がなかったため、自主的に企画し実施した
-      - 月に 1 回社内でもくもく会を開催し、部署内外のメンバとの交流を深めた
-      - [Redash のハンズオン](https://github.com/kakakakakku/redash-hands-on)をメンバに対して実施した
-  - アウトプットを継続する力
-    - 週に 1 回で技術ブログを更新しています（2018.01~現在）
-      - 週に 1 回ブログを更新する[Write Blog Every Week](https://write-blog-every-week.netlify.app)コミュニティの管理者
-      - 2018 年[1 人アドベントカレンダー](https://adventar.org/calendars/3492)を実施し無事に完走
-    - 月 1 で登壇・LT をしています（2018.11~現在）
-      - [エンジニアの登壇を応援する忘年 LT 大会](https://techplay.jp/eventreport/705867)にてベストスピーカー 2 位（10 人中）を獲得
-      - [Laravel JP Conference 2019](https://conference2019.laravel.jp/)にて、有志と[PHP テストワークショップ](https://fortee.jp/laravel-jp-conference-2019/proposal/f3964b26-c9db-4ee5-abee-c9b0ea51db7f)を実施
-    - 2018 年から[OSS Gate](https://oss-gate.github.io/)のメンバーとして OSS 活動への新規参加者への継続的なフォロー
-      - [サポーター活動の実績](https://yoshitaku-jp.hatenablog.com/entry/2018/10/29/225211)
-      - [ワークショップ司会の実績](https://yoshitaku-jp.hatenablog.com/entry/2018/12/16/110000)
-- これから伸ばしたいこと
-  - プログラミングスキルを中心に伸ばしていきたい
-    - 自身の技術力が向上することにより、事業へより貢献できる部分が大きくなるため
-  - モダンな開発スタイルを用いて開発をおこないたい
-    - 最新技術を常にキャッチアップしていたいため
-    - 業務効率を上げ、様々なアウトプット活動を増やしていきたいため
-  - エンジニアのアウトプットを支援していきたい
-    - アウトプットを通して自身が成長してきたので、足踏みをしている人に対して支援をおこないたいため
-  - OSS への貢献を増やしていきたい
-    - OSS 活動への新規参加者のためのフォロー活動を継続的に実施し支援をおこないたいため
-- 興味があること
-  - 組織としてアウトプットを推奨する環境での活動・文化風土の形成
-    - 自身が得た知識を共有し他者の成長となってほしい一方で、他者が得た知識を共有してもらうことで自身の成長にもいかしたい
-      - その結果会社や組織が成長し、また新しい人材の獲得・環境改善のサイクルが回ると考えたため
-  - 自社プロダクトの立ち上げ・運用・改善
-    - 他社開発システムでは自身だけでの改善が難しい面があり、自社プロダクトを持っている会社で提案・改善活動をおこなっていきたいと考えるようになった
-
-## 目指すキャリア像
-
-- 短期目標（1,2 年）
-  - 開発チームの中でテックリードエンジニアとして認められ、チームを牽引できる人材となる
-    - 開発チーム内において技術面での価値を発揮していけるようになりたいため
-  - フロント/バックエンド/インフラと横断的に知識を持てるような人材となる
-    - 自身の専門外のことも興味関心を持ち、常に業界全体としての動きをキャッチアップできるようになりたいため
-- 中長期目標（5 年〜）
-  - 課題に対し適切な技術選定ができる人材となる
-    - 課題解決へのアプローチとチーム内での生産性最大化に向けての視野を持ちたいため
-  - 課題に対し技術以外での解決できる道筋を見つけられる高い視座と広い視点を持つ人材となる
-    - 必ずしもプログラミングで解決することが正解ではないと考えているので「顧客が本当に必要だったもの」を見失わないようにしたいため
-
-## 主なアウトプット
-
-- [インターネット恩送り / Pay it Forward](https://speakerdeck.com/yoshitaku_jp/pay-it-forward)
-  - 自身がなぜブログ更新というアウトプット活動を始めようと思い継続してきたかについてお話しました
-- [初めてのユニットテスト / PHP Unit Test workshop](https://speakerdeck.com/yoshitaku_jp/php-unit-test-workshop)
-  - [Laravel JP Conference](https://conference2019.laravel.jp/)にて有志と[PHP テストワークショップ](https://fortee.jp/laravel-jp-conference-2019/proposal/f3964b26-c9db-4ee5-abee-c9b0ea51db7f)を開催しました
-- [write-blog-every-week メンバーのブログ一覧が見ることができるサイト](https://github.com/yoshitaku-jp/write-blog-every-week)
-  - 所属メンバーのブログ一覧が見れるものがほしいと思い作成しました
-  - [メンバーの最新記事を取得するツール](https://github.com/yoshitaku-jp/api-write-blog-every-week)を作成し、Netlify を簡易的な API サーバとして運用しています。
 
 以上
